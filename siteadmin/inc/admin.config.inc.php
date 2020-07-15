@@ -1,0 +1,22 @@
+<?php
+$ADMIN_PANEL_VERSION = "1.4";
+$SITE_NAME = "Welcome to RWJonesplumbing.com.au Administration";
+$ADMIN_MAIN_SITE_NAME = "Welcome to RWJonesplumbing.com.au Administration";
+$ADMIN_MAIN_PAGES_TEXT_COLOR = "#000000";
+$ADMIN_MAIN_PAGES_BG_COLOR = "#FFFFFF";
+$ADMIN_MAIN_PAGES_LINKS_COLOR = "#FFFFFF";
+$ADMIN_HEADER_BG_COLOR = "#E44591";
+$ADMIN_HEADER_FONT_COLOR = "#ffffff";
+$ADMIN_FOOTER_BG_COLOR ="#E44591";
+$ADMIN_FOOTER_FONT_COLOR = "#ffffff";
+$ADMIN_SIDEBAR_BG_COLOR = "#F7C4DC";
+$ADMIN_SIDEBAR_FONT_COLOR = "#000000";
+$ADMIN_SIDEBAR_FONT_SIZE = 1;
+$ADMIN_TABLE_BG_COLOR = "#FCE9F2";
+$ADMIN_TABLE_FONT_COLOR = "#ffffff";
+$ADMIN_USE_DATABASE = "NO";
+$ADMIN_USERS_TABLE = "admin_users";
+$STYLE="<link rel='stylesheet' href='Style.css' type='text/css'>";
+$ADMIN_USERNAME = "admin";
+$ADMIN_PASSWORD = "admin";
+?>
